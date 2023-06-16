@@ -1,4 +1,4 @@
 # Cafe Menu 
 Proyecto de menú de cafeterías desarrollado en FreeCodeCamp. 
 
-![Cafe-Menu](https://github.com/licha-esc/Cafe-Menu-FCC.github.io/assets/104387269/7efa7570-9076-48db-bf5b-76b2156c68b4)
+![Cafe-Menu](https://github.com/licha-esc/Cafe-Menu-FCC.github.io/assets/104387269/a65e4ad9-cb4a-41f0-9661-ab9a82f1faf6)
